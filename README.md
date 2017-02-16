@@ -5,3 +5,7 @@ Pandas is an open source, BSD-licensed library providing high-performance, easy-
 http://pandas.pydata.org/
 # Official Website of Python 
 https://www.python.org/
+#Create CSV 
+https://www.mockaroo.com/
+# Official Website of Anaconda
+https://www.continuum.io/
